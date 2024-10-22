@@ -22,13 +22,20 @@ Pastikan Anda sudah memiliki:
 git clone https://github.com/marlinxfish/ius-fct.git
 ```
 
-### 2. Install Package
+### 2. Masuk Directory
 
-````bash
-npm i
+```bash
+cd fct-sui
+```
 
-## 2. Mulai Bot
+### 3. Install Package
+
+```bash
+npm install
+```
+
+## Mulai Bot
 
 ```bash
 npm start
-````
+```
