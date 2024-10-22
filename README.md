@@ -24,11 +24,11 @@ git clone https://github.com/marlinxfish/ius-fct.git
 
 ### 2. Install Package
 
-````bash
-npm i
+```bash
+npm install
+```
 
-## 2. Mulai Bot
-
+## Mulai Bot
 ```bash
 npm start
-````
+```
