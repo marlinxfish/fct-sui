@@ -36,8 +36,6 @@ npm install
 
 ## Mulai Bot
 
-=======
-
 ```bash
 cd fct-sui
 ```
