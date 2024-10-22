@@ -23,7 +23,6 @@ git clone https://github.com/marlinxfish/ius-fct.git
 ```
 
 ### 2. Masuk Directory
-<<<<<<< HEAD
 
 ```bash
 cd fct-sui
@@ -36,19 +35,21 @@ npm install
 ```
 
 ## Mulai Bot
+
 =======
+
 ```bash
 cd fct-sui
 ```
 
 ### 3. Install Package
->>>>>>> 8ec9f7e324942616aa3b80a48176245456340a9b
 
 ```bash
 npm install
 ```
 
 ## Mulai Bot
+
 ```bash
 npm start
 ```
