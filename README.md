@@ -22,7 +22,12 @@ Pastikan Anda sudah memiliki:
 git clone https://github.com/marlinxfish/ius-fct.git
 ```
 
-### 2. Install Package
+### 2. Masuk Directory
+```bash
+cd fct-sui
+```
+
+### 3. Install Package
 
 ```bash
 npm install
